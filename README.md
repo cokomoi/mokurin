@@ -1,1 +1,1 @@
-# mokurin
+Mokurin site v2 (JA/EN). Deploy via GitHub Pages. Replace assets with real photos for premium look. Keep filenames to avoid code changes.
